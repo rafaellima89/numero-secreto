@@ -1,6 +1,6 @@
 let listaDeNumerosSorteados = [];
 
-let numeroLimite = 30;
+let numeroLimite = 40;
 
 let nome = prompt ('Me diga seu nome');
 
